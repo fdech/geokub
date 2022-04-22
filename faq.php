@@ -6,7 +6,7 @@
         <div class="container">
             <h1 class="title">самые популярные вопросы</h1>
             <ul class='faq-list'>
-               <li></li>
+               <li>ТЕКСТ</li>
             </ul>
         </div>
     </section>
