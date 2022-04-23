@@ -1,4 +1,4 @@
 <?php
-    setcookie('user', $user['username'], time() - 3000, "/");
+    setcookie('user', $user['username'], time() - 100, "/");
     header('Location: /');
 ?>
