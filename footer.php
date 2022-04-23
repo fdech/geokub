@@ -18,7 +18,7 @@
                     <li class="main-footer__item">Дмитрий Григорьев Сергеевич</li>
                     <li class="main-footer__item">Даниил Кумыков Альбертович</li>
                     <li class="main-footer__item">Лысенко Степан Игоревич</li>
-                    <li class="main-footer__item">Яков Смолин Сергеевич</li>
+                    <li class="main-footer__item">Яша</li>
                     
                 </ul>
             </div>
